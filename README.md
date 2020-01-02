@@ -10,3 +10,6 @@ EventDrivenSimulation v1.2 :
 EventDrivenSimulation v1.3 : 
 
 EventDrivenSimulation v2.0 : 
+
+# Challenges Overcame
+Learned a lot about Network theory and Network Performance by simulating basic Networks. The challenge during coding was making sure the correct network events were picked up at correct times, while adapting to OOP in C#. The results were in accordance with basic queuing theory.
