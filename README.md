@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/parthnan/NetworkTrafficAnalysis-Csharp.svg)](http://hits.dwyl.com/parthnan/NetworkTrafficAnalysis-Csharp)
 # Modeling Networks for Traffic Analysis 
 An Object Oriented Approach to evaluating average waiting times for users of in Communication Networks, using basic Queuing theory(read:Kendall's Notation). Used Student's t-test for confidence interval analysis of estimated waiting time(explained below). 
 
