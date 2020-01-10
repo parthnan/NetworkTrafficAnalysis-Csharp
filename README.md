@@ -8,9 +8,9 @@ EventDrivenSimulation v1.1 : Defines a type of event based on Arrival time and s
 
 EventDrivenSimulation v1.2 : Extends the functionality of v1.1 by introducing M/M/1/K queue, meaning it is the same single server, but with maximum queued tasks limit of K (and a more random pattern of event arrivals called M)
 
-EventDrivenSimulation v1.3 : 
+EventDrivenSimulation v1.3 : Is v1.2 with K servers(M/M/K/K queue). Each server runs parallely.
 
-EventDrivenSimulation v2.0 : 
+EventDrivenSimulation v2.0 : Introduces M/D/1 queuing with Priority(VIP) events as well as LIFO M/M/K/K queueing.
 
 # Challenges Overcame
 Learned a lot about Network theory and Network Performance by simulating basic Networks. The challenge during coding was making sure the correct network events were picked up at correct times, while adapting to OOP in C#. The results were in accordance with basic queuing theory.
